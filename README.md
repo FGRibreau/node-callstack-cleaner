@@ -1,4 +1,4 @@
-Callstack-cleaner  [![Build Status](https://secure.travis-ci.org/FGRibreau/node-callstack-cleaner.png)](https://secure.travis-ci.org/FGRibreau/node-callstack-cleaner)
+Callstack-cleaner [![Build Status](https://travis-ci.org/FGRibreau/node-callstack-cleaner.png?branch=master)](https://travis-ci.org/FGRibreau/node-callstack-cleaner)
 ==========
 Clean the callstack from error messages
 
